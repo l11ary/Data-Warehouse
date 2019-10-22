@@ -34,6 +34,7 @@ collect all create, insert, drop queries here. this script is internally used by
 
 # Sample Queries
 Example of querying the songplay data for users in washington:
+
  `select * from songplays where location like '%Washington%'`
  
 Sample data in stagingevents:
